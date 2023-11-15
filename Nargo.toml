@@ -1,0 +1,8 @@
+[package]
+name = "secret_password"
+type = "bin"
+authors = ["0Kelv"]
+description = "A little example of howto keep a password private via Noir."
+compiler_version = ">=0.19.2"
+
+[dependencies]
